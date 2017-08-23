@@ -1,0 +1,22 @@
+{
+  "name": "hltb",
+  "version": "0.0.3",
+  "description": "",
+  "author": "ckatzorke <ckatzorke@gmail.com>",
+  "main": "functions/__main__.js",
+  "dependencies": {
+    "howlongtobeat": "1.0.6",
+    "lib.cli": "^3.1.0"
+  },
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "ckatzorke/hltb",
+    "timeout": 10000,
+    "publish": true,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
+  }
+}
