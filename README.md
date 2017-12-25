@@ -2,4 +2,4 @@
 
 ## Deploy
 
-    lib login --email ckatzorke@gmail.com --password ******
+    lib login --email ***** --password ******
