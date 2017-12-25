@@ -1,6 +1,6 @@
 {
   "name": "hltb",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "author": "ckatzorke <ckatzorke@gmail.com>",
   "main": "functions/__main__.js",
