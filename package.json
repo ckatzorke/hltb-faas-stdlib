@@ -5,8 +5,7 @@
   "author": "ckatzorke <ckatzorke@gmail.com>",
   "main": "functions/__main__.js",
   "dependencies": {
-    "howlongtobeat": "^1.0.8",
-    "lib.cli": "^3.4.0"
+    "howlongtobeat": "^1.0.8"
   },
   "private": true,
   "stdlib": {
