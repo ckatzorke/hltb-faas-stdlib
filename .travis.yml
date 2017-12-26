@@ -6,6 +6,6 @@ cache:
     - "node_modules"
 after_success:
   - npm install lib.cli -g
-  - lib init -t $STDLIB_ACCESS_TOKEN
+  - lib init -n
   - lib login --email $STDLIB_EMAIL --password $STDLIB_PASSWORD
   - lib release
