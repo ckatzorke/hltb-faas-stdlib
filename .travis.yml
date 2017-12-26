@@ -6,7 +6,7 @@ cache:
     - "node_modules"
 deploy:
   provider: script
-  script: scripts/deploy.sh
+  script: chmod +x $TRAVIS_BUILD_DIR/scripts/deploy.sh && $TRAVIS_BUILD_DIR/scripts/deploy.sh
   on:
     branch: master
   
