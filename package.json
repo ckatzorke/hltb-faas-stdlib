@@ -1,11 +1,11 @@
 {
   "name": "hltb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "ckatzorke <ckatzorke@gmail.com>",
   "main": "functions/__main__.js",
   "dependencies": {
-    "howlongtobeat": "1.0.10"
+    "howlongtobeat": "1.0.11"
   },
   "private": true,
   "stdlib": {
