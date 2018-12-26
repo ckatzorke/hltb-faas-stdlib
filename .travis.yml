@@ -8,5 +8,5 @@ deploy:
   provider: script
   script: npm install lib.cli -g && echo "ACCESS_TOKEN=$STDLIB_ACCESS_TOKEN" > ~/.librc && lib release
   on:
-    branch: master
+    tags: true
   

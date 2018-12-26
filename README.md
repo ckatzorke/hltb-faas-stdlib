@@ -1,6 +1,11 @@
 # HowLongToBeat FaaS
 
-## Deploy
+## Deploy via travix
+
+    npm version patch
+    git push --tags
+
+## Deploy locally
 
     npm i -g std.lib
     lib init
