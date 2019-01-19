@@ -5,7 +5,7 @@
   "author": "ckatzorke <ckatzorke@gmail.com>",
   "main": "functions/__main__.js",
   "dependencies": {
-    "howlongtobeat": "1.0.11"
+    "howlongtobeat": "1.1.1"
   },
   "private": true,
   "stdlib": {
